@@ -5,6 +5,7 @@ This study compared the effectiveness of COVID-19 control policies, including we
 
 Keywords: Covid-19, eSIR, Linear Regression.
 
+See the full slides (https://d1b7fa67-ae8d-4ff2-8a53-6ea463f22e9a.filesusr.com/ugd/d678c7_f2fcb3d2d07a41bd9d344e1330b3d8ac.pdf) See the full paper (https://dl.acm.org/doi/fullHtml/10.1145/3545729.3545773)
 ## Key Figures & Tables
 <img width="599" alt="image" src="https://user-images.githubusercontent.com/100052482/212209235-c4d972a9-79d7-467b-a92c-add402c97c14.png">
 <img width="557" alt="image" src="https://user-images.githubusercontent.com/100052482/212209299-1d613962-8d2e-4759-8c6e-9fba733ca8a9.png">
